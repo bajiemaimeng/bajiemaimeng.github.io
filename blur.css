@@ -52,7 +52,7 @@
 }
 
 #reset-button{
-	left:50px;
+	left:25px;
 	bottom: 20px;
 	background-color: #058;
 }
@@ -62,7 +62,7 @@
 }
 
 #show-button{
-	right: 50px;
+	right: 25px;
 	bottom: 20px;
 	background-color: #085;
 }
