@@ -13,7 +13,7 @@ var leftMargin = 0;
 var topMargin = 0;
 
 var image = new Image();
-var radius = 50;
+var radius = 80;
 var clippingRegion = {x:Math.random()*(canvas.width-radius*2)+radius,y:Math.random()*(canvas.height-radius*2)+radius,r:radius};
 image.src = "sanpagn.jpg";
 image.onload = function(e){
